@@ -1,0 +1,17 @@
+{
+  "name": "monster-arena-multiplayer-server",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Servidor multiplayer Monster Arena V86 para salas de até 8 jogadores",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
