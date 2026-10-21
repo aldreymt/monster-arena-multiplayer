@@ -1,4 +1,4 @@
-# Monster Arena Multiplayer V86 — até 8 jogadores
+# Monster Arena Multiplayer V88 — até 8 jogadores
 
 ## Incluído
 - Cliente HTML V86 preservando o RPG e o salvamento local anterior.
